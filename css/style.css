@@ -26,8 +26,6 @@ a {
 }
 
 
-/* === нова кнопка хедера*/
-
 .header__button {
    
     display: flex;
@@ -194,7 +192,6 @@ a {
 
 
 
-/* ==== Section LEARN ======== */
 .learn__box {
     display: flex;
     justify-content: center;
@@ -256,7 +253,6 @@ a {
     color: #0F8277;
 }
 
-/* === SECTION best prog====== */
 
 .section__title-wrapper {
     display: flex;
@@ -364,7 +360,7 @@ a {
 
 }
 
-/* ===  SECTION  pop-courses === */
+
 
 .section__pop-courses {
     margin-bottom: 83px;
@@ -406,7 +402,7 @@ a {
     top: 2px;
 }
 
-/* =======Section Futured topics   nav ======= */
+
 
 .section__topics {
     margin-bottom: 80px;
@@ -451,7 +447,6 @@ a {
 }
 
 
-/* =======Section companies ======= */
 
 .section__companies {
     
@@ -477,8 +472,6 @@ a {
     margin-bottom: 60px;
 }
 
-
-/* =======Section business ======= */
 
 
 .section__business {
@@ -577,7 +570,7 @@ a {
     max-width: 568px;
 }
 
-/* ====== SECTION Choose a plan */
+
 
 
 .section__plan {
@@ -749,7 +742,7 @@ a {
 }
 
 
-/* ====== 8 section Students =======  */
+
 
 .section__students h2 {
     text-align: center;
@@ -792,7 +785,7 @@ a {
     grid-column: 2 /4;
 }
 
-/* ====== 9 section contact form =======  */
+
 
 .section__form {
     min-height: 727px; 
@@ -870,7 +863,7 @@ a {
 
 
 
-/* ==== input name   == */
+
 .input-name {
     display: flex;
     flex-direction: column;
@@ -880,7 +873,6 @@ a {
 
 
  
-/* === input mail =========== */
 .input-mail {
     display: flex;
     flex-direction: column;
@@ -888,7 +880,7 @@ a {
     gap: 8px;
 }
 
-/* === input massege ========= */
+
 
 .input-message {
     display: flex;
@@ -909,14 +901,14 @@ a {
     
 }
 
-/* ==== button ========= */
+
 
 .form-control button {
     min-width: 196px;
 }
 
 
-/* ======= Footer ============ */
+
 
 .footer-box {
     display: flex;
